@@ -8,3 +8,4 @@ I had fun making this. It works but has a bug I experienced when importing Pushe
  - Controllers
  - Routes
  - Vue files
+ - Setting up Pusher
